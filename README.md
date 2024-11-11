@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img
     src="https://render.gitanimals.org/lines/cacaocoffee?pet-id=643785087030142580"
     width="600"
-    height="120"
+    height="200"
   />
 </a>
   

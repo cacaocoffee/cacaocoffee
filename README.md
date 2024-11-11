@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cacaocoffee&show_icons=true&theme=tokyonight)  
+
 
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/cacaocoffee"
+    src="https://render.gitanimals.org/lines/cacaocoffee?pet-id=643785087030142580"
     width="600"
     height="120"
   />
 </a>
+  
   

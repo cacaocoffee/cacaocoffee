@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안드로이드 개발자를 꿈꾸는 김명석입니다. 
 
 
 <!--
@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cacaocoffee&show_icons=true&theme=tokyonight)  
 
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/cacaocoffee"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/cacaocoffee"
+    width="600"
+    height="120"
+  />
 </a>
+  

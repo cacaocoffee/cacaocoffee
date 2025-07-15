@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cacaocoffee&show_icons=true&theme=tokyonight)  
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=twinaudtjr)](https://solved.ac/twinaudtjr/)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/cacaocoffee?pet-id=643785087030142580"
-    width="600"
-    height="200"
-  />
-</a>
-  
   
